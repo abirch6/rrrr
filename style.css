@@ -1,0 +1,30 @@
+.color-red{
+	color: red;
+	text-align: center;
+}
+	
+
+.color-green{
+	color: green;
+	margin:20px;
+}
+body{
+	background-color:rgb(255,198,140);
+	padding:20px;
+}
+div{
+	background: rgb(255,191,213);
+}
+img{
+  width: 30vw;
+  border-radius: 40px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+
+}	
+
+.color-blue{
+	color: blue; 
+	margin:80px;
+}
